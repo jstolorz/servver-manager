@@ -1,6 +1,6 @@
-package com.bluesoft.servvermanager.model;
+package com.bluesoft.servermanager.model;
 
-import com.bluesoft.servvermanager.enumerationv.Status;
+import com.bluesoft.servermanager.enumerationv.Status;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

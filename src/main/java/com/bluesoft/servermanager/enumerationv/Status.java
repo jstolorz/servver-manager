@@ -1,4 +1,4 @@
-package com.bluesoft.servvermanager.enumerationv;
+package com.bluesoft.servermanager.enumerationv;
 
 public enum Status {
     SERVER_UP("SERVER_UP"),
