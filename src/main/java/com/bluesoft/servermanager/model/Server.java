@@ -15,7 +15,7 @@ import javax.validation.constraints.NotEmpty;
 public class Server {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private long id;
+    private Long id;
     @Column(unique = true)
     @NotEmpty(message = "IP Address cannot br empty or null")
     private String ipAddress;
